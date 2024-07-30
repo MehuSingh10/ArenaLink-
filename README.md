@@ -2,9 +2,9 @@ Certainly! Here’s a draft for your README file for the SportsLife project:
 
 ---
 
-# SportsLife
+# ArenaLink 
 
-SportsLife is an innovative platform designed to showcase sports academies, provide information on available turfs, and facilitate the booking of turfs and registration for competitions. The platform serves as a comprehensive solution for sports enthusiasts, academy owners, and competition organizers.
+ArenaLink  is an innovative platform designed to showcase sports academies, provide information on available turfs, and facilitate the booking of turfs and registration for competitions. The platform serves as a comprehensive solution for sports enthusiasts, academy owners, and competition organizers.
 
 ## Features
 
