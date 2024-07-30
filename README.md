@@ -1,4 +1,4 @@
-Certainly! Here’s a draft for your README file for the SportsLife project:
+Certainly! Here’s a draft for your README file for the ArenaLink  project:
 
 ---
 
