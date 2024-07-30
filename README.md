@@ -23,7 +23,7 @@ ArenaLink  is an innovative platform designed to showcase sports academies, prov
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT
-- **Storage**: Cloudinary, Amazon S3
+- **Storage**: Cloudinary 
 - **Others**: Mongoose, Axios
 
 ## License
