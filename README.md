@@ -20,6 +20,3 @@ Others: Mongoose, Axios
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-Special thanks to Professor Shweta Jadhav for guidance and support.
-Thanks to our team members: Prajwal, Pruthvij, Mehul, and Rugved.
