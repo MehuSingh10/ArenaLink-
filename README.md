@@ -9,14 +9,11 @@ ArenaLink  is an innovative platform designed to showcase sports academies, prov
 ## Features
 
 - **Academy Showcase**: Display a comprehensive list of sports academies, allowing users to explore various training centers.
-- **Turf Booking**: Users can view available turfs for different sports and book them directly through the platform.
-- **Competition Registration**: Allows users to register their academies for sports competitions and enables competition organizers to list and manage their events.
+- **Turf Showcase**: Users can view available turfs for different sports 
+- **Competition Showcase**: Users can view different sports competitions
 - **User Registration**: New users can register on the platform, including sports academy owners and competition organizers.
-- **Admin Panel**: An administrative interface for managing users, academies, turfs, and competitions.
 - **Secure User Authentication**: Secure login and registration using JWT.
 - **Profile Management**: Users can create and manage their profiles, including academies and competitions.
-- **Real-time Updates**: View and manage real-time updates on bookings, registrations, and competition statuses.
-
 ## Tech Stack
 
 - **Frontend**: React.js
